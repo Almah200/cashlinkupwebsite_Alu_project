@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:green;
+}
+/*
+.box{
+   border-radius: 3px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 750px;
+   height: 560px;
+   background: white;
+   overflow: hidden;
+}
+
+.inline-text{
+   color: white;
+   position: absolute;
+   top: 32px;
+   left: 55px; 
+}
+
+.inline-text h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.inline-text p{
+    color: rgb(228, 228, 228);
+    opacity: 0.9;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.box1{
+    background: url();
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: green;
+}
+.box-2 .user-data input:focus ~ label,
+.box-2 .user-data input:valid ~ label{
+    top: -20px;
+    font-size: 12px;
+}
+
+.box-2 .user-data input:focus{
+   border-bottom: 1px solid green; 
+}
+
+.box-2 span a{
+    position: absolute;
+    top: 140px;
+    left: 315px;
+    display: inline;
+    color: green;
+    font-weight: 600;
+}
+.box2 .button input{
+    height: 50px;
+    font-size: 18px;
+    border: none;
+    background: white;
+}
+
+.user-id p{
+    font-size: 12px;
+    color: rgb(173, 173, 173);
+}
+
+.box2 .buton input[type=submit]{
+    background: rgb(255, 81, 0);
+    border-radius: 2px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    outline: none;
+    transition: 0.5s;
+    margin-top: none;
+} */
